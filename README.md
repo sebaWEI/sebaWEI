@@ -25,10 +25,9 @@
 
 ### GitHub Stats
 
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sebaWEI&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaWEI&layout=compact&theme=tokyonight" />
-</p>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sebaWEI&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sebaWEI&layout=compact&theme=tokyonight)
 
 ---
 
