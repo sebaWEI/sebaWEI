@@ -2,7 +2,7 @@
 
 # Ziheng Wei
 
-### AI × Biology × Computational Design
+### AI × Biology
 
 </div>
 
@@ -18,7 +18,7 @@
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,linux,git,vscode,pycharm" />
 </p>
 
 ---
@@ -35,7 +35,6 @@
 
 - Computational biology
 - RNA design
-- Protein structure generation
 - AI for nucleic acids
 - Deep learning systems
 
